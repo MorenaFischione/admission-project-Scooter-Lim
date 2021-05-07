@@ -1,0 +1,127 @@
+* {font-family: 'Questrial', sans-serif;
+}
+
+.sfondo {
+background-size: cover;
+}
+
+.Quadrato-principale{
+  width: 945px;
+  height: 675px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  border-radius: 15px;
+  padding: 50px 30px;
+}
+
+.logo {
+  width: 250px;
+  height: 100px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav#navigazione {
+   background-color: #9cf;
+   border-bottom: 1px solid #787878;
+   padding-left: 20px
+   position: absolute;
+}
+
+.titolo {
+  color: #00FF00;
+  text-align: center;
+}
+
+/* menu principale */
+.rettangolo {
+  width: 750px;
+  background-color: #00ff00;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+section{
+  text-align: center;
+}
+
+/* Quadrato Gino22 */
+.quadrato {
+  width: 10px;
+  height: 10px;
+  background: white;
+  display: inline-block;
+}
+
+.modello{
+  width: 750px;
+  color: white;
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+}
+
+.modello-tipo{
+  display: inline-block;
+  text-align: left;
+  margin: 10px;
+}
+
+.indirizzo{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.carica {
+  margin-top: 5px;
+}
+
+.img-carica {
+  margin-top: 10px;
+  margin-left: 0;
+  margin-bottom: 30;
+  width: 300px;
+  height: 25px;
+  background: orange;
+  border-radius: 5px;
+}
+
+/* Modello Mike24 */
+.modello-tipo-1,.modello-tipo-2{
+  display: inline-block;
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.indirizzo-1, {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.img-carica-1 {
+  margin-top: 10px;
+  margin-left: 0;
+  width: 500px;
+  height: 25px;
+  background: #00FF00;
+  border-radius: 5px;
+}
+
+/* Modello tipo Fede154 */
+.indirizzo-2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.img-carica-2 {
+  margin-top: 10px;
+  margin-left: 0;
+  width: 150px;
+  height: 25px;
+  background: #A52A2A;
+  border-radius: 5px;
+}
